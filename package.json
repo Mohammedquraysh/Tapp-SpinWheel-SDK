@@ -1,0 +1,20 @@
+{
+  "name": "@tapp/react-native-spinwheel",
+  "version": "1.0.0",
+  "description": "Tapp SpinWheel widget for React Native — wraps the native Android SpinWheelView",
+  "main": "src/index.tsx",
+  "files": [
+    "src",
+    "android"
+  ],
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "scripts": {
+    "pack": "npm pack"
+  },
+  "keywords": ["react-native", "android", "spinwheel", "widget"],
+  "author": "Tapp",
+  "license": "MIT"
+}
